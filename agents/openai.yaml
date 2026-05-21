@@ -1,0 +1,4 @@
+interface:
+  display_name: "Codex Path Redirect"
+  short_description: "Repair moved Codex project paths."
+  default_prompt: "Use $codex-path-redirect to redirect a Codex Desktop project or thread history from an old Windows path to a new path."
